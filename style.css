@@ -1,0 +1,147 @@
+body{
+ margin:0;
+ padding:0;
+ 
+ background-color:;
+ background-size:cover;
+ background-position:top;
+ background-repeat:no-repeat;
+ font-family:sans-serif;
+ display:inline-block;
+ background-image:url("maps.jpg");
+ 
+
+}
+
+.map__container input{
+   width:100%;
+   margin-bottom:20px;
+	
+}
+
+.map__container {
+   width:1000px;
+   height:800px;
+   background:rgba(192,192,192,0.8);
+   color:#fff;
+   top:50%;
+   left:50%;
+   position:absolute;
+   transform:translate(-50%,-50%);
+   box-sizing:border-box;
+   padding:30px 100px;
+   
+	
+}
+
+.map__container input[type="button"]
+ {
+   border:none;
+   outline:none;
+   height:40px;
+   background:rgba(139,0,0,0.6);
+   border:1px solid #fff;
+   color:#fff;
+   font-size:18px;
+   border-radius:20px;
+   
+ }
+ 
+.map__container input[type="button"]
+ {
+   border:none;
+   outline:none;
+   height:40px;
+   background:rgba(139,0,0,0.6);
+   border:1px solid #fff;
+   color:#fff;
+   font-size:18px;
+   border-radius:20px;
+   
+ }
+ 
+ .map__container input[type="button"]
+ {
+   border:none;
+   outline:none;
+   height:40px;
+   background:rgba(139,0,0,0.6);
+   border:1px solid #fff;
+   color:#fff;
+   font-size:18px;
+   border-radius:20px;
+   
+ }
+ 
+.map__container input[type="button"]:hover
+{
+   cursor:pointer;
+background:rgba(0,0,255,0.6);   
+color:#fff;
+
+}
+.map__container input[type="button"]:hover
+{
+   cursor:pointer;
+background:rgba(0,0,255,0.6);   
+color:#fff;
+
+}
+
+.close{
+   width:700px;
+   height:40px;
+   background:rgba(0,0,0,0.6);
+   color:#fff;
+   top:-8%;
+   left:20%;
+   position:absolute;
+   transform:translate(-50%,-50%);
+   box-sizing:border-box;
+   padding:50px 30px;
+   
+}
+
+ .close input[type="button"]
+ {
+   border:none;
+   outline:none;
+   height:50px;
+   width:50px;
+   background:rgba(139,0,0,0.6);
+   border:1px solid #fff;
+   color:#fff;
+   font-size:18px;
+   border-radius:20px;
+   font-family:monteserrat;   
+ }
+  .mapimage 
+ {
+
+   width:100px;
+   height:100px;
+   position:absolute;
+   top:-50px;
+   left:calc(50% - 50px);
+   border-radius:50%;
+   
+ }
+ 
+ .h1{
+ margin:0;
+ padding:0 0 20px;
+ font-size:22px;
+ }
+ 
+ .map__container input[type="text"]
+ {
+   border:none;
+   border-bottom:1px solid #D4AF37;
+   background:transparent;
+   position:left-side;
+   outline:none;
+   height:40px;
+   color:#D4AF37;
+   font-size:16px;
+ 
+ }
